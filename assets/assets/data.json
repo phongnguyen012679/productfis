@@ -1,0 +1,1608 @@
+[
+  {
+    "question": "Năm 2023, FIS phát động chiến lược 113. Tầm nhìn 5 năm của chiến lược 113 là?",
+    "answers": ["Tất cả đáp án đều đúng"]
+  },
+  {
+    "question": "Đâu là phát biểu đúng nhất về chiến lược Made by FIS 2019-2021?",
+    "answers": ["Toàn bộ người Việt Nam trải nghiệm ít nhất 1 phần mềm của FIS"]
+  },
+  {
+    "question": "Lợi ích do giải pháp akaBot mang lại cho doanh nghiệp?",
+    "answers": [
+      "Tiết kiệm chi phí",
+      "Tiết kiệm thời gian",
+      "Tăng hiệu suất",
+      "Cải thiện trải nghiệm khách hàng"
+    ]
+  },
+  {
+    "question": "akaBot là sản phẩm phù hợp nhất cho đối tượng nào?",
+    "answers": [
+      "Doanh nghiệp có khối lượng công vịệc thủ công lớn, tần suất cao"
+    ]
+  },
+  {
+    "question": "Các khách hàng của akaMES?",
+    "answers": ["Vinfast, Sumitomo, Yamaha, Denso, Sumitomo"]
+  },
+  {
+    "question": "akaMES ứng dụng cho ngành nào?",
+    "answers": ["Ngành sản xuất"]
+  },
+  {
+    "question": "akaVerse có các nhân sự có kỹ năng nào?",
+    "answers": [
+      "Lập trình viên Unity",
+      "Lập trình viên 3D",
+      "Thiết kế mô hình 3D",
+      "Hoạ sĩ ý\ntưởng"
+    ]
+  },
+  {
+    "question": "Đâu là các công nghệ mà akaVerse có chuyên môn?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "FPT.dGov là một bộ Giải pháp/ Sản phẩm cung cấp một hệ sinh thái khép kín hoàn chỉnh các giải pháp và ứng dụng phục vụ CQĐT/ CQS/ CQTM?",
+    "answers": ["Đúng"]
+  },
+  {
+    "question": "FPT.dGov bao gồm nhóm giải pháp xã số?",
+    "answers": ["Đúng"]
+  },
+  {
+    "question": "Dịch vụ FPT EagleEye MSOC cung cấp gì?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "Triển khai dịch vụ EagleEye.MSOC sẽ gồm các bước nào?",
+    "answers": ["Pre-Implementation", "Implementation", "Pilot", "Go-live"]
+  },
+  {
+    "question": "Trong số các chức năng dưới đây, chức năng nào thuộc khối tính năng tự động hóa?",
+    "answers": ["Cảnh báo vượt hạn mức chi phí công tác"]
+  },
+  {
+    "question": "Sản phẩm FPT.eBiztrip được nghiên cứu và phát triển từ năm nào?",
+    "answers": ["2021"]
+  },
+  {
+    "question": "Đã có bao nhiêu hợp đồng/ tài liệu được xử lý trên FPT.eContract?",
+    "answers": ["Hơn 2 triệu tài liệu/ hợp đồng"]
+  },
+  {
+    "question": "Tính năng nổi bật của FPT eContract?",
+    "answers": ["Tất cả các phương án trên"]
+  },
+  {
+    "question": "Hệ thống EGP đã có nguồn thu từ loại giao dịch nào sau đây?",
+    "answers": ["Phí tham dự thầu của Nhà thầu", "Phí trúng thầu của nhà thầu"]
+  },
+  {
+    "question": "Số lượng tổ chức đã đăng ký và tham gia trên Hệ thống EGP tính trong năm 2023 khoảng bao nhiêu?",
+    "answers": ["Khoảng 200.000"]
+  },
+  {
+    "question": "FPT xây dựng phần mềm FPT.eHospital & triển khai bệnh viện đầu tiên Đa Khoa Triều An TP.HCM vào năm nào?",
+    "answers": ["2000"]
+  },
+  {
+    "question": "Đâu là câu trả lời đúng nhất về Thị trường phần mềm Y tế?",
+    "answers": [
+      "Thị trường Y tế còn nhiều cơ hội tuy nhiên có sự tham gia của nhiều đối thủ"
+    ]
+  },
+  {
+    "question": "Dữ liệu của FPT.eInvoice onPrem và FPT.eInvoice onCloud khác nhau ở điểm gì?",
+    "answers": ["Cả hai đáp án đều đúng"]
+  },
+  {
+    "question": "Hoá đơn điện tử FPT.eInvoice có thể triển khai theo những giải pháp nào?",
+    "answers": ["Cả onCloud và\nonPrem"]
+  },
+  {
+    "question": "Những công nghệ nào sau đây được sử dụng trong giải pháp eKYC của FIS?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "Công nghệ OCR có khả năng trích xuất chính xác 100% dữ liệu từ bất kỳ loại hình ảnh văn bản, đúng hay sai?",
+    "answers": ["Sai"]
+  },
+  {
+    "question": "Đâu là tính năng nổi bật của module thi?",
+    "answers": ["Tự động thu bài nếu vi phạm", "Chụp ảnh màn hình ngẫu nhiên"]
+  },
+  {
+    "question": "Số lượng người sử dụng FPT eLearning khoảng bao nhiêu?",
+    "answers": ["700000"]
+  },
+  {
+    "question": "FPT-CA có bao nhiêu đại lý toàn quốc",
+    "answers": ["13.000+"]
+  },
+  {
+    "question": "Có những loại Chứng thư số nào?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "Hóa đơn đầu vào được quản lý và lưu trữ trên FDA trong vòng bao nhiêu năm?",
+    "answers": ["10 năm"]
+  },
+  {
+    "question": "Số lượng hóa đơn đầu vào được lưu trữ, xử lý trên hệ thống FDA đến hiện tại là bao nhiêu?",
+    "answers": [">\n8.000.000"]
+  },
+  {
+    "question": "IDcheck là dịch vụ xác thực chỉ sử dụng Căn cước công dân gắn chip?",
+    "answers": ["Đúng"]
+  },
+  {
+    "question": "IDcheck có thể áp dụng cho những nghiệp vụ nào?",
+    "answers": ["Tất cả các phương án đều đúng"]
+  },
+  {
+    "question": "Nhận định FPT.iHRP dễ dàng tích hợp với các hệ thống phần mềm khác như SAP, Oracle, Sun,\nMicrosoft,…đúng hay sai?",
+    "answers": ["Đúng"]
+  },
+  {
+    "question": "Các tổ chức tài chính đã và đang sử dụng sản phẩm FPT.iHRP?",
+    "answers": ["TPBank", "Sacombank", "FE Credit"]
+  },
+  {
+    "question": "Tính năng nào KHÔNG có trong Khaothi.Online phiên bản dành cho các tổ chức có nhu cầu cung cấp bài thi sát hạch, đánh giá chuẩn hoá và cấp chứng chỉ?",
+    "answers": ["Giao bài tập và quản lý đánh giá quá trình."]
+  },
+  {
+    "question": "Khách hàng đầu tiên ứng dụng Khaothi.Online trong tổ chức các cuộc thi tuyên truyền là?",
+    "answers": ["Phòng GD&ĐT Cầu Giấy"]
+  },
+  {
+    "question": "Đâu không phải chức năng của FPT SPRO",
+    "answers": ["Lưu trữ &\ntìm kiếm văn bản"]
+  },
+  {
+    "question": "Giải pháp FPT SPRO là sản phẩm:",
+    "answers": ["Số hóa quy trình"]
+  },
+  {
+    "question": "Các đối thủ cạnh tranh chủ yếu của UBot là ai?",
+    "answers": ["Misa", "M-invoice", "Bizzi"]
+  },
+  {
+    "question": "UBot sử dụng công nghệ cốt lõi nào?",
+    "answers": ["RPA"]
+  },
+  {
+    "question": "UEngage giúp đội ngũ marketing & chăm sóc khách hàng làm gì?",
+    "answers": ["Tất cả các phương án đều đúng"]
+  },
+  {
+    "question": "Điểm còn hạn chế của Utop atWork?",
+    "answers": [
+      "Kiểm soát ngân sách cấp cho nhân viên, tối ưu chuẩn bị và quản lý suất ăn, đánh giá\ndịch vụ"
+    ]
+  },
+  {
+    "question": "UVote AGM áp dụng được với Doanh nghiệp niêm yết trên sàn nào?",
+    "answers": [
+      "Doanh nghiệp niêm yết trên UPCOM",
+      "Doanh nghiệp niêm yết trên HOSE",
+      "Doanh nghiệp niêm yết trên HNX"
+    ]
+  },
+  {
+    "question": "Tính đến tháng 8/ 2023, UVote Event đã được triển khai cho cuộc thi nào?",
+    "answers": ["Miss Grand Vietnam"]
+  },
+  {
+    "question": "VioEdu có đặc điểm gì nổi bật?",
+    "answers": [
+      "Sân chơi Đấu trường hấp dấn thu hút đông đảo học sinh tham dự",
+      "Giái pháp tổng thể hỗ trợ Nhà\ntrường – Giáo viên – Học sinh – Phụ huynh",
+      "Tính năng bạn đồng hành"
+    ]
+  },
+  {
+    "question": "VioEdu ứng dụng cho lĩnh vực nào?",
+    "answers": ["Lĩnh vực giáo dục"]
+  },
+  {
+    "question": "5 đơn vị được cấp giấy xác nhận đăng ký cung cấp dịch vụ chứng thực hợp đồng điện tử năm 2022 là những đơn vị nào?",
+    "answers": ["FPT, BKAV, CMC, Viettel, Mobiphone"]
+  },
+  {
+    "question": "Ưu điểm giải pháp FPT.ePIT là gì?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "Đối tượng khách hàng sử dụng của FPT T.VAN?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "Giải pháp Onboarding của FIS chỉ dựa trên công nghệ AI, đúng hay sai?",
+    "answers": ["Sai"]
+  },
+  {
+    "question": "Sự kiện nào đánh dấu cột mốc đầu tiên cho chặng đường xây dựng và phát triển sản phẩm Made by FIS trong 2019?",
+    "answers": ["Ra mắt giải pháp Hoá đơn điện tử FPT.eInvoice"]
+  },
+  {
+    "question": "Năm 2023, FIS phát động chiến lược 113.\nTầm nhìn 5 năm của chiến lược 113 là?",
+    "answers": ["Tất cả đáp án đều đúng"]
+  },
+  {
+    "question": "akaBot chính thức ra mắt thị trường vào năm nào?",
+    "answers": ["2018"]
+  },
+  {
+    "question": "Lợi ích akaMES đem lại?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "akaMES là phần mềm hay phần cứng?",
+    "answers": ["Phần\nmềm"]
+  },
+  {
+    "question": "Giải pháp tour ảo của akaVerse có thể được thực hiện bằng những cách nào?",
+    "answers": [
+      "Thực hiện bằng quay chụp từ không gian thực",
+      "Thực hiện bằng thiết kế 3D từ ý tưởng hoặc bản vẽ kỹ thuật CAD/BIM",
+      "Kết hợp việc quay chụp từ không gian thực và thiết kế từ bản vẽ"
+    ]
+  },
+  {
+    "question": "FPT.dGov bao gồm Giải pháp/ Ứng dụng chuyên ngành phục vụ hoạt động các đơn vị chuyên ngành cấp bộ-ngành, tỉnh-thành phố, sở-ban-ngành, quận-huyện, phường-xã-thị trấn?",
+    "answers": ["Đúng"]
+  },
+  {
+    "question": "FPT.dGov tuân thủ Kiến trúc Chính quyền điện tử 1.0 và 2.0 của Bộ Thông tin và Truyền thông?",
+    "answers": ["Đúng"]
+  },
+  {
+    "question": "Dịch vụ FPT EagleEye Pentest của FPT IS sử dụng các phương pháp đánh giá điểm yếu bảo mật nào?",
+    "answers": [
+      "Phương pháp Black box: Kỹ sư đánh giá ATTT (Pentester) không được cung cấp bất kỳ một thông tin nào liên quan tới ứng dụng cần đánh giá. Pentester sẽ đặt mình vào vị trí của những tin tặc mũ đen và tiến hành phân tích, đánh giá, phát hiện và phân loại các lỗ hổng bảo mật trên ứng dụng, thực hiện thâm nhập vào hệ thống để làm bằng chứng khai thác.",
+      "Phương pháp Grey box: Kỹ sư đánh giá ATTT (Pentester) được khách hàng cung cấp một phần thông tin về hệ thống  cần đánh giá ví dụ như cung cấp cho Pentester một tài khoản như một người dùng thông thường trên hệ thống cần đánh giá.\nPentester tiến hành phân tích, đánh giá, phát hiện và phân loại các lỗ hổng bảo mật trên ứng dụng, thực hiện thâm nhập vào hệ thống để làm bằng chứng khai thác.",
+      "Phương pháp White box: Kỹ sư đánh giá ATTT (Pentester) được khách hàng cung cấp toàn bộ thông tin về hệ thống  cần đánh giá (bao gồm cả source code). Pentester tiến hành phân tích, đánh giá, phát hiện và phân loại các lỗ hổng bảo mật trên ứng dụng, thực hiện thâm nhập vào hệ thống để làm bằng chứng khai thác."
+    ]
+  },
+  {
+    "question": "Đâu là đối tượng khách hàng hướng tới của sản phẩm?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "Hợp đồng mua bảo hiểm có kí kết được trên nền tảng FPT eContract không?",
+    "answers": ["Không"]
+  },
+  {
+    "question": "Các loại chữ kí số nào kí kết được trên nền tảng FPT eContract?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "Người dùng của hệ thống EGP là ai?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "Tính đến thời điểm 2023, Hệ thống EGP đã có chính sách pháp lý và Go-Live các phân hệ (module) nào ?",
+    "answers": [
+      "Phân hệ đấu thầu điện tử (e-Bidding)",
+      "Phân hệ quản lý người dùng (UM)"
+    ]
+  },
+  {
+    "question": "Quy mô khách hàng lớn nhất đang triển khai hệ thống FPT.eHospital và EMR?",
+    "answers": ["Tập đoàn Y Khoa Hoàn Mỹ"]
+  },
+  {
+    "question": "Giải pháp eHospital được kinh doanh theo phương thức nào dưới đây?",
+    "answers": [
+      "Thuê phần mềm, dịch vụ CNTT và phương thức hợp tác truyền thống"
+    ]
+  },
+  {
+    "question": "Muốn sử dụng hóa đơn điện tử của FPT doanh nghiệp cần phải làm gì?",
+    "answers": ["Tất cả đáp án đều đúng"]
+  },
+  {
+    "question": "Khi sử dụng FPT.eInvoice khách hàng sẽ tiết kiệm được chi phí nào?",
+    "answers": ["Chi phí in hoá đơn và\nchuyển phát"]
+  },
+  {
+    "question": "Giải pháp eKYC của FIS CHƯA được triển khai cho các khách hàng nào sau đây?",
+    "answers": ["HD Bank"]
+  },
+  {
+    "question": "Điểm khác biệt nhất của giải pháp eKYC của FIS so với các giải pháp khác cùng loại trên thị trường là gì?",
+    "answers": ["Chống giả mạo toàn diện"]
+  },
+  {
+    "question": "Cách kết nối giữa eLearning với các sản phẩm phần mềm khác là gì?",
+    "answers": ["API Gateway"]
+  },
+  {
+    "question": "FPT eLearning mang đến những lợi ích gì cho doanh nghiệp?",
+    "answers": [
+      "Tiết kiệm chi phí tổ chức đào tạo",
+      "Công cụ học tập trực quan tạo điều kiện thuận lợi cũng như tăng cảm hứng học tập cho các học viên.",
+      "Dễ dàng tổ chức và tái sử dụng học liệu",
+      "Tự động đào tạo theo lộ trình phù\nhợp với từng nhân viên"
+    ]
+  },
+  {
+    "question": "FPT.eSign giúp giảm bao nhiêu % thời gian hỗ trợ của giao dịch viên",
+    "answers": ["70%"]
+  },
+  {
+    "question": "Ưu điểm của FPT.eSign so với Chữ ký số truyền thống FPT-CA?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "Giải pháp FPT Digital Accouting là?",
+    "answers": ["Phần mềm tự động xử lý\nhóa đơn đầu vào cho doanh nghiệp"]
+  },
+  {
+    "question": "Có thể sử dụng thẻ CCCD gắn chip để thay thế hoàn toàn cho các công nghệ eKYC hay không?",
+    "answers": ["Không"]
+  },
+  {
+    "question": "Chi phí triển khai giải pháp FPT.IDcheck theo phương án On Premise/Private Cloud KHÔNG gồm hạng mục nào sau đây?",
+    "answers": ["Khởi tạo dịch vụ"]
+  },
+  {
+    "question": "FPT.iHRP giúp chi phí tiết kiệm được khoảng bao nhiêu % thời gian?",
+    "answers": ["95%"]
+  },
+  {
+    "question": "Các phân hệ triển khai của FPT.iHRP là gì?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "Đối tượng chính của bộ giải pháp Khaothi.Online là?",
+    "answers": [
+      "Các cơ quan, ban ngành tổ chức các bài sát hạch cấp chứng chỉ, thi tuyển đầu vào CBCCVC",
+      "Các cơ sở giáo dục phổ thông triển khai đánh giá thường xuyên, đánh giá định kỳ",
+      "Các trường đại học, cao đẳng tổ chức các bài thi kết thúc học phần"
+    ]
+  },
+  {
+    "question": "Ưu điểm của Khaothi.Online so với các giải pháp thay thế khác?",
+    "answers": [
+      "Quản lý\ntoàn diện, khép kín quy trình",
+      "Đáp ứng số lượng thi đồng thời lớn",
+      "Thiết kế quy trình linh hoạt theo nhu cầu",
+      "Công nghệ mới nhất, phương pháp luận hiện đại về khảo thí"
+    ]
+  },
+  {
+    "question": "Đối tượng quy trình mà FPT SPRO có thể số hóa là gì?",
+    "answers": ["Tất cả các quy trình của Doanh nghiệp"]
+  },
+  {
+    "question": "Lợi ích mà FPT SPRO mang lại cho khách hàng là:",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "UBot Matching đối chiếu những loại chứng từ nào?",
+    "answers": ["Hóa đơn, Phiếu nhập kho, Đơn đặt hàng"]
+  },
+  {
+    "question": "Utop có sản phẩm dành cho khách hàng B2C không?",
+    "answers": ["Có"]
+  },
+  {
+    "question": "Utop Digital Engage (UEngage)\nlà gì?",
+    "answers": ["Một nền tảng tương tác số tập trung cho Doanh nghiệp"]
+  },
+  {
+    "question": "Thiết bị nào UVote không hỗ trợ?",
+    "answers": ["Tất cả các đáp án đều sai"]
+  },
+  {
+    "question": "UVote Event có các Nhóm tính năng nào?",
+    "answers": ["Bình chọn", "Thống kê/ Phân tích"]
+  },
+  {
+    "question": "Tính năng nào của phụ huynh sử dụng trên VioEdu?",
+    "answers": [
+      "Theo dõi tiến trình học tập",
+      "Nhận báo cáo quá trình học của học sinh"
+    ]
+  },
+  {
+    "question": "VioEdu đạt giải thưởng CNTT Châu Á – Thái Bình Dương (APICTA Awards)\nvào năm nào?",
+    "answers": ["2019"]
+  },
+  {
+    "question": "Đối tượng sử dụng bộ API chuẩn của FPT.CeCA?",
+    "answers": [
+      "Là các doanh nghiệp, tổ chức đã có hệ thống lưu trữ và quản lý hợp đồng/tài liệu, có nhu cầu chứng thực hợp đồng/tài liệu."
+    ]
+  },
+  {
+    "question": "Từ ngày 01/07/2023, Chứng từ khấu trừ thuế TNCN tự in, còn tồn có được sử dụng hay không?",
+    "answers": [
+      "Trường hợp vẫn đang còn tồn chứng từ khấu trừ thuế TNCN giấy do cơ quan thuế cấp được phép tiếp tục sử dụng, nếu đã sử dụng hết chứng từ tự in, còn tồn thì tổ chức bắt buộc phải chuyển sang chứng từ khấu trừ thuế điện tử"
+    ]
+  },
+  {
+    "question": "Số giao dịch cần xử lý trung bình 1 ngày của T.VAN Hóa đơn điện tử (HDDT)?",
+    "answers": ["800-1.000.000/ 1 ngày"]
+  },
+  {
+    "question": "Giải pháp Onboarding của FIS có khả năng kiểm tra khuôn mặt khách hàng từ CSDL khách hàng không?",
+    "answers": ["Có khả năng nếu CSDL khách hàng chứa hình ảnh khuôn mặt"]
+  },
+  {
+    "question": "Trong 2019, 4 sản phẩm của FIS: FPT.CARS, FPT.eInvoice, FPT.Fortuna, FPT.EagleEye MDR đã được vinh danh ở hạng mục giải thưởng nào?",
+    "answers": ["Sao Khuê"]
+  },
+  {
+    "question": "Đâu là mô tả chính xác nhất cho giải pháp RPA từ akaBot?",
+    "answers": ["Mô phỏng các tác vụ thủ công của nhân viên nghiệp vụ"]
+  },
+  {
+    "question": "akaBot đã phục vụ bao nhiêu khách hàng tính đến nay?",
+    "answers": ["Hơn 3000 khách hàng"]
+  },
+  {
+    "question": "akaMES ra đời năm nào?",
+    "answers": ["2019"]
+  },
+  {
+    "question": "akaVerse đã từng triển khai giải pháp tour ảo cho những lĩnh vực nào?",
+    "answers": ["Bất động sản", "Nhà máy xí nghiệp", "Trường học hội nghị"]
+  },
+  {
+    "question": "akaVerse là gì?",
+    "answers": [
+      "akaVerse là đơn vị cung cấp các giải pháp về công nghệ thực tế ảo"
+    ]
+  },
+  {
+    "question": "FPT.dGov bao gồm Giải pháp/ Ứng dụng phục vụ người dân và doanh nghiệp?",
+    "answers": ["Đúng"]
+  },
+  {
+    "question": "FPT.dGov bao gồm nhóm giải pháp quận số?",
+    "answers": ["Đúng"]
+  },
+  {
+    "question": "Xu hướng chuyển dịch An toàn thông tin hiện nay tại Việt Nam là?",
+    "answers": [
+      "Xu hướng bảo mật lấy dữ liệu làm trọng tâm (Data-Centric Security)",
+      "Xu hướng bảo mật điện toán đám mây (Cloud security)",
+      "Xu hướng tuân thủ chính sách ATTT trong nước và quốc tế: ISO, PCI.DSS, HIPAA, GDPR, Bảo vệ dữ liệu cá nhân",
+      "Xu hướng quản lý rủi ro trong chuỗi cung ứng (Cyber Supply-chain risk Management)"
+    ]
+  },
+  {
+    "question": "Nhận định nào sau đây là KHÔNG ĐÚNG về mô hình tích hợp của sản phẩm FPT EagleEye.MSOC?",
+    "answers": ["Tất cả các đáp án đều sai"]
+  },
+  {
+    "question": "Đâu là mô tả đúng về mục tiêu sản phẩm?",
+    "answers": [
+      "Là một giải pháp toàn diện, hỗ trợ giải pháp giúp quản lý chuyến công tác tổng thể từ việc lên kế hoạch, đặt dịch vụ, quản lý lịch và thủ tục thanh toán ngay trên ứng dụng di động."
+    ]
+  },
+  {
+    "question": "Lựa chọn các phương án sản phẩm có thể triển khai?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "Giấy chứng nhận quyền sở hữu đất và bất động sản trên đất có áp dụng ký điện tử được không?",
+    "answers": ["Không"]
+  },
+  {
+    "question": "Các doanh nghiệp nào là đối tượng khách hàng của FPT eContract?",
+    "answers": [
+      "Doanh nghiệp sản xuất",
+      "Doanh nghiệp ngành FMCG",
+      "Doanh nghiệp FDI",
+      "Doanh nghiệp bán lẻ"
+    ]
+  },
+  {
+    "question": "e-Bidding là phân hệ gì?",
+    "answers": ["Phân hệ đấu thầu điện tử"]
+  },
+  {
+    "question": "Rủi ro khi tiếp cận với các đối thủ là gì?",
+    "answers": [
+      "Các công ty mới gia nhập thị trường được sự hậu thuẫn cấp cao và thay đổi chính sách, quy định từ các cơ quan quản lý"
+    ]
+  },
+  {
+    "question": "Đâu là hiệu quả nào mang lại khi áp dụng quản lý giải pháp tổng thể bệnh viện?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "Khách hàng đăng ký dịch vụ của FPT.eInvoice có những lợi ích gì so với các NCC khác?",
+    "answers": ["Tất cả đáp án đều đúng"]
+  },
+  {
+    "question": "Giải pháp eKYC chỉ áp dụng cho lĩnh vực Tài chính - Ngân hàng, đúng hay sai?",
+    "answers": ["Sai"]
+  },
+  {
+    "question": "Lợi ích của việc áp dụng eKYC là gì?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "Chọn những tính năng nổi bật của sản phẩm?",
+    "answers": [
+      "Tích hợp AI  (text to speech)",
+      "Giảm thiểu gian lận trong kiểm tra đánh giá",
+      "Tổ chức đào tạo theo lộ trình",
+      "2 phương thức trong 1 phần mềm"
+    ]
+  },
+  {
+    "question": "Website của FPT.eSign là?",
+    "answers": ["esign.fpt.com"]
+  },
+  {
+    "question": "Các khách hàng tiêu biểu của FPT.eSign là?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "Sản phẩm nào không phải là sản phẩm cạnh tranh của FDA?",
+    "answers": ["Misa AMIS"]
+  },
+  {
+    "question": "Các lợi ích FDA mang lại cho khách hàng?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "Hiện nay có bao nhiêu thẻ CCCD gắn chip đã được cấp phát cho người dân Việt Nam tính đến tháng 4/2023?",
+    "answers": ["Trên 80 triệu thẻ"]
+  },
+  {
+    "question": "Giải pháp FPT.IDcheck có đặc điểm gì nổi bật?",
+    "answers": ["Xác thực chính xác thông tin CCCD gắn chip chính xác 100%"]
+  },
+  {
+    "question": "Đâu là các khách hàng lớn của sản phẩm iHRP?",
+    "answers": ["Tất cả đáp án đều đúng"]
+  },
+  {
+    "question": "Tính năng nào KHÔNG có trong Khaothi.Online phiên bản dành cho các cơ sở giáo dục có nhu cầu triển khai công cụ thi kiểm tra, giao bài tập cho người học?",
+    "answers": ["Quản lý cấp chứng chỉ, chứng nhận."]
+  },
+  {
+    "question": "FPT CHƯA triển khai cho Khách hàng nào?",
+    "answers": ["VIETTINBANK"]
+  },
+  {
+    "question": "UBot Invoice có các tính năng gì giúp hỗ trợ cho phòng kế toán?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "UBot là hệ sinh thái các giải pháp tự động hóa cho phòng ban nào?",
+    "answers": ["Phòng Tài chính-Kế toán"]
+  },
+  {
+    "question": "Sản phẩm nào sử dụng OCR?",
+    "answers": ["Uengage"]
+  },
+  {
+    "question": "Đối tượng khách hàng của UEngage bao gồm các công ty thuộc những ngành nghề nào sau đây?",
+    "answers": ["Tất cả các phương án đều đúng"]
+  },
+  {
+    "question": "Các lợi ích khi sử dụng UVote AGM là gì?",
+    "answers": [
+      "Livestream",
+      "Tổ chức sự kiện + Cho thuê Địa điểm",
+      "Truyền thông trước + Sau Đại hội"
+    ]
+  },
+  {
+    "question": "Cổ đông/ Người bình chọn có thể sử dụng thiết bị nào để đăng nhập/ bình chọn UVote ?",
+    "answers": ["Smartphone", "Tablet", "Laptop", "PC"]
+  },
+  {
+    "question": "VioEdu đã nhận giải thưởng Thành phố thông minh Việt Nam thuộc hạng mục gì?",
+    "answers": ["Giải pháp giáo dục thông minh"]
+  },
+  {
+    "question": "Đối tượng sử dụng FPT.CeCA?",
+    "answers": ["Tất cả đáp án đều đúng"]
+  },
+  {
+    "question": "Thư viện API của giải pháp FPT.ePIT bao gồm chức năng nào?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "Tổng cục Thuế lựa chọn FPT là đơn vị đồng hành để kiểm thử cùng hệ thống của Tổng cục Thuế (TCT)?",
+    "answers": ["Đúng"]
+  },
+  {
+    "question": "Độ chính xác về thông tin khách hàng trong nền tảng Digital Onboarding là bao nhiêu?",
+    "answers": ["100%"]
+  },
+  {
+    "question": "Nhận định \"Akabot nằm trong TOP 20 nền tảng RPA (Gartner Peer Insights)\" đúng hay sai?",
+    "answers": ["Đúng"]
+  },
+  {
+    "question": "Những tính năng độc đáo của akaMES gồm?",
+    "answers": [
+      "Truy xuất nguồn gốc",
+      "Lập kế hoạch sản xuất",
+      "Quản lý sản xuất theo thời gian thực"
+    ]
+  },
+  {
+    "question": "Module nào của akaMES giúp tích hợp hệ thống?",
+    "answers": ["Integrity"]
+  },
+  {
+    "question": "FPT.dGov bao gồm nhóm giải pháp đô thị thông minh?",
+    "answers": ["Đúng"]
+  },
+  {
+    "question": "Cơ hội nào cho sản phẩm FPT.EagleEye trên thị trường An ninh mạng?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "Yêu cầu đi công tác bao gồm những loại yêu cầu nào dưới đây?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "Đâu là những chức năng của sản phẩm?",
+    "answers": [
+      "Quản lý yêu cầu, làm tờ trình đi công tác",
+      "Quản lý chi phí đi công tác",
+      "Liên kết doanh nghiệp với các nhà cung cấp dịch vụ để hỗ trợ tính năng đặt các dịch vụ đi công tác trực tiếp trên hệ thống",
+      "Hỗ trợ claim thanh toán"
+    ]
+  },
+  {
+    "question": "Sản phẩm FPT.eContract đạt giải thưởng Sao Khuê và Stevie Awards vào năm nào?",
+    "answers": ["2021"]
+  },
+  {
+    "question": "Hệ thống EGP sử dụng kiến trúc nào?",
+    "answers": ["Micro Services và Monolithic"]
+  },
+  {
+    "question": "Tổng vốn đầu tư xây dựng Hệ thống EGP là bao nhiêu?",
+    "answers": ["> 300 tỷ"]
+  },
+  {
+    "question": "FPT triển khai thành công cho BV nào đạt mức độ bệnh viện thông minh, không giấy tờ?",
+    "answers": ["Bệnh viện Đa khoa Quốc tế Hải Phòng"]
+  },
+  {
+    "question": "Chức năng của FPT.eInvoice onPrem và FPT.eInvoice onCloud khác nhau ở điểm gì?",
+    "answers": ["Cả hai đáp án đều đúng"]
+  },
+  {
+    "question": "Đâu là những ưu điểm của hóa đơn có mã?",
+    "answers": [
+      "- Chỉ cần có máy tính kết nối internet và sử dụng phần mềm lập hóa đơn\n- HĐ xuất xong được truyền đến Thuế cấp mã, được KH tin tưởng\n- Không phải kiểm soát dữ liệu gửi đến Thuế định kỳ\n- KH nhận hóa đơn, có thể tra cứ trên cổng tập trung của TCT"
+    ]
+  },
+  {
+    "question": "Những đặc điểm của eKYC là gì?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "Giải pháp eKYC của FIS có cung cấp SDK để tích hợp với Mobile App của khách hàng hay không?",
+    "answers": ["Có"]
+  },
+  {
+    "question": "Đâu là những hạn chế của đối thủ cạnh tranh từ nước ngoài?",
+    "answers": [
+      "Chi phí triển khai và license cao",
+      "Khó khăn trong việc triển khai hỗ trợ",
+      "Khả năng nâng cấp tùy biến theo nghiệp vụ thấp"
+    ]
+  },
+  {
+    "question": "Sản phẩm được bắt đầu phát triển từ năm nào?",
+    "answers": ["2015"]
+  },
+  {
+    "question": "Đặc tính của Chữ ký số?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "FPT Digital Accounting đạt giải thưởng Sao Khuê năm nào?",
+    "answers": ["2021"]
+  },
+  {
+    "question": "Công nghệ để đọc thẻ CCCD gắn chip được gọi là?",
+    "answers": ["NFC"]
+  },
+  {
+    "question": "Đang có khoảng bao nhiêu doanh nghiệp sử dụng FPT.iHRP?",
+    "answers": ["250+"]
+  },
+  {
+    "question": "Đâu là các đặc điểm chính của sản phẩm FPT.iHRP?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "Khaothi.Online bắt đầu xây dựng năm nào?",
+    "answers": ["2019"]
+  },
+  {
+    "question": "Sử dụng Khaothi.Online giúp khách hàng ĐỔI MỚI:",
+    "answers": [
+      "Xây dựng ngân hàng câu hỏi theo lý thuyết khảo thí hiện đại IRT",
+      "Đổi mới cách thức quản lý dữ liệu",
+      "Quản lý điều hành tập trung, đồng bộ dựa trên dữ liệu",
+      "Đổi mới quy trình, đa dạng hóa công cụ, hình thức tổ chức"
+    ]
+  },
+  {
+    "question": "Tên gọi nội bộ của FPT SPRO khi sử dụng tại FIS là gì?",
+    "answers": ["BaOnline"]
+  },
+  {
+    "question": "UBot Invoice có chức năng chính là gì?",
+    "answers": ["Tự động xử lý hóa đơn"]
+  },
+  {
+    "question": "Đối tượng khách hàng của LoyaltyOS bao gồm các công ty thuộc những ngành nghề sau đây:",
+    "answers": ["Tất cả các phương án đều đúng"]
+  },
+  {
+    "question": "Các vấn đề thường gặp của Đại hội cổ đông tổ chức trực tiếp là gì?",
+    "answers": ["Tất cả các phương án đều đúng"]
+  },
+  {
+    "question": "Tuyên bố giá trị của UVote bao gồm?",
+    "answers": ["Minh bạch", "Chính xác", "An toàn tuyệt đối"]
+  },
+  {
+    "question": "VioEdu đạt giải thưởng CNTT Châu Á – Thái Bình Dương (APICTA Awards) vào năm nào?",
+    "answers": ["2019"]
+  },
+  {
+    "question": "VioEdu phục vụ cho đối tượng nào sau đây?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "FPT.Ceca được đăng ký hoạt động tại địa chỉ nào theo quy đinh?",
+    "answers": ["chungthucdientu.vn"]
+  },
+  {
+    "question": "Số giao dịch trung bình 1 ngày của khách hàng gửi lên T.VAN Hóa đơn điện tử (HDDT)?",
+    "answers": ["300-400.000/ 1 ngày"]
+  },
+  {
+    "question": "Trong 2019, FIS có bao nhiêu sản phẩm/giải pháp được đăng ký sở hữu trí tuệ?",
+    "answers": ["30"]
+  },
+  {
+    "question": "Đối thủ trong ngành của Akabot là ai?",
+    "answers": ["UiPath", "Power Automate"]
+  },
+  {
+    "question": "Trong số các ngân hàng dưới đây, ngân hàng nào đã là khách hàng của akaBot?",
+    "answers": ["Vietcombank", "TPBank"]
+  },
+  {
+    "question": "akaMES được đề xuất bởi đối tác nào?",
+    "answers": ["Microsoft", "IBM"]
+  },
+  {
+    "question": "Cha đẻ của akaMES là ai?",
+    "answers": ["Anh Lê Minh Quân"]
+  },
+  {
+    "question": "Quay chụp từ không gian thực có thể được thực hiện bằng các hình thức nào?",
+    "answers": [
+      "Có thể quay chụp từ dưới đất bằng máy ảnh chuyên dụng DLSR",
+      "Có thể quay chụp ảnh 360 bằng drone/flycam ở các vị trí trên cao",
+      "Có thể quay quét từ các thiết bị laser"
+    ]
+  },
+  {
+    "question": "Đâu là giải pháp mà akaVerse cung cấp?",
+    "answers": [
+      "Tour Ảo (Virtual Tour)",
+      "Virtual Training (Đào tạo ảo)",
+      "Đào tạo thực tế tăng cường (AR Training)"
+    ]
+  },
+  {
+    "question": "FPT.dGov bao gồm nhóm giải pháp văn phòng số?",
+    "answers": ["Đúng"]
+  },
+  {
+    "question": "Dịch vụ Giám sát và xử lý sự cố ATTT FPT EagleEye mSOC sẽ tương thích với những loại hạ tầng CNTT nào của khách hàng?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "Cổng thông tin của sản phẩm FPT EagleEye MDR cho phép khách hàng làm gì?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "FPT eBiztrip có khả năng kết nối với các hệ thống khác qua API gateway không?",
+    "answers": ["Có"]
+  },
+  {
+    "question": "FPT.eContract có hỗ trợ ký trên nền tảng Mobile không?",
+    "answers": ["Có"]
+  },
+  {
+    "question": "Lợi ích khi sử dụng FPT eContract là?",
+    "answers": [
+      "Tiện lợi trong khâu quản lý, lưu trữ, và tìm kiếm hợp đồng",
+      "Khả năng tích hợp với các hệ thống tác nghiệp như : CRM, HRM,…",
+      "Thuận tiện trong việc ký kết hợp đồng"
+    ]
+  },
+  {
+    "question": "Mục đích của phầm mềm EGP?",
+    "answers": [
+      "Cho phép các tổ chức tham gia đấu thầu qua mạng, đảm bảo tính cạnh tranh, công khai, minh bạch và hiệu quả kinh tế trong hoạt động mua sắm chính phủ."
+    ]
+  },
+  {
+    "question": "Trong thời gian 20 năm đã có bao nhiêu bệnh viện và cơ sở y tế lựa chọn triển khai phần mềm FPT.eHospital?",
+    "answers": ["300"]
+  },
+  {
+    "question": "Những tính năng nổi bật của hệ thống FPT.eHospital?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "Thời gian triển khai của FPT.eInvoice onPrem và FPT.eInvoice onCloud khác nhau ở điểm gì?",
+    "answers": ["Cả hai đáp án đều đúng"]
+  },
+  {
+    "question": "Độ chính xác của công nghệ nhận dạng và so sánh hình ảnh khuôn mặt (FaceID) của FIS là bao nhiêu?",
+    "answers": ["> 98%"]
+  },
+  {
+    "question": "Sản phẩm có cung cấp tính năng lớp học trực tuyến loại phương thức bất đồng bộ (Virtual class) không?",
+    "answers": ["Không"]
+  },
+  {
+    "question": "Chữ ký số là gì?",
+    "answers": [
+      "Là thông tin được đính kèm theo dữ liệu nhằm mục đích xác nhận danh tính của người gửi dữ liệu đó và khẳng định dữ liệu đó có bị thay đổi hay không",
+      "Chữ ký số là một dạng trong chữ ký điện tử"
+    ]
+  },
+  {
+    "question": "Các chức năng chính của giải pháp, bao gồm:",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "Các khối khách hàng tiềm năng của FDA là?",
+    "answers": [
+      "Bán lẻ/Phân phối",
+      "Tổng Công ty, Tập đoàn",
+      "Logistics, Bảo hiểm"
+    ]
+  },
+  {
+    "question": "Nhận định FPT.iHRP dễ dàng tích hợp với các hệ thống phần mềm khác như SAP, Oracle, Sun, Microsoft,…đúng hay sai?",
+    "answers": ["Đúng"]
+  },
+  {
+    "question": "Điểm còn hạn chế của LoyaltyOS?",
+    "answers": [
+      "Nhỏ lẻ, tỷ lệ đăng ký thấp, không đa dạng, khó tích hợp đa kênh, cá nhân hóa chương trình."
+    ]
+  },
+  {
+    "question": "UVote Event không có Nhóm tính năng nào?",
+    "answers": ["Biểu quyết"]
+  },
+  {
+    "question": "VioEdu thuộc đơn vị nào của FIS?",
+    "answers": ["FIS NB"]
+  },
+  {
+    "question": "Doanh thu năm 2022 của VioEdu là bao nhiêu?",
+    "answers": ["54 tỷ"]
+  },
+  {
+    "question": "Thời gian phản hồi cho 1 giao dịch T.VAN Hóa đơn điện tử (HDDT)?",
+    "answers": ["3s"]
+  },
+  {
+    "question": "Lĩnh vực ứng dụng của Digital Onboarding?",
+    "answers": ["Ngân hàng- tài chính và bất động sản"]
+  },
+  {
+    "question": "Đâu là khách hàng tiêu biểu của Akabot trong ngành bán lẻ?",
+    "answers": ["Central Retail tại Việt Nam"]
+  },
+  {
+    "question": "Đối thủ trong ngành của akaMES là ai?",
+    "answers": ["SIEMEN Opcenter Execution"]
+  },
+  {
+    "question": "Giải pháp đào tạo ảo đem lại lợi ích gì cho các doanh nghiệp?",
+    "answers": ["Tất cả các phương án đều đúng"]
+  },
+  {
+    "question": "Bộ giải pháp dGov góp phần giúp chi phí hành chính tiết kiệm khoảng bao nhiêu?",
+    "answers": ["30 tỷ/ năm"]
+  },
+  {
+    "question": "FPT.dGov giải quyết vấn đề gì của khách hàng?",
+    "answers": [
+      "Xây dựng Chính quyền điện tử trong mối tương quan ĐTTM, thực hiện chuyển đổi số hướng đến chính quyền số và nền kinh kế số với trung tâm là người dân và doanh nghiệp"
+    ]
+  },
+  {
+    "question": "Dịch vụ Managed Detection & Response của sản phẩm FPT EagleEye MDR cho phép phát hiện được gì?",
+    "answers": [
+      "Phát hiện mối nguy hại thông qua nguồn cấp dữ liệu Threat Intelligence, được hỗ\n trợ bởi CarbonBlack",
+      "Phát hiện mối đe dọa: ransomware, APT, đánh cắp dữ liệu, mối đe dọa trong nội bộ",
+      "Phát hiện hành vi bất thường dựa trên khung MITER ATT&CK, được hỗ trợ bởi bộ rules phát triển bởi FPT."
+    ]
+  },
+  {
+    "question": "Khách hàng của sản phẩm FPT EagleEye MSOC sẽ là ai?",
+    "answers": ["Khối Chính phủ và doanh nghiệp"]
+  },
+  {
+    "question": "Sản phẩm hỗ trợ những vấn đề gì của doanh nghiệp?",
+    "answers": [
+      "Khó kiểm soát chi phí công tác",
+      "Quy trình phê duyệt cồng kềnh",
+      "Thống kê báo cáo",
+      "Thu thập hóa đơn sau khi đi công tác"
+    ]
+  },
+  {
+    "question": "Bước tiếp theo của phê duyệt tờ trình công tác thì nhân viên phải làm gì?",
+    "answers": ["Đặt dịch vụ"]
+  },
+  {
+    "question": "FPT.eContract nhận giải thưởng Sản phẩm Make in Vietnam vào năm nào?",
+    "answers": ["2021"]
+  },
+  {
+    "question": "Tính đến hiện tại, doanh nghiệp nào đã sử dụng dịch vụ của FPT eContract?",
+    "answers": ["SSI", "Vinamilk", "F88"]
+  },
+  {
+    "question": "EMR (Bệnh án điện tử) là viết tắt của cụm từ nào dưới đây?",
+    "answers": ["Electronic Medical Record"]
+  },
+  {
+    "question": "Điểm mạnh của Hóa đơn điện tử FPT.eInvoice?",
+    "answers": ["Tất cả đáp án đều đúng"]
+  },
+  {
+    "question": "Dịch vụ Video Call trong giải pháp eKYC của FIS được sử dụng cho mục đích gì?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "Giải pháp FPT.IDcheck đã áp dụng cho cơ sở giáo dục nào?",
+    "answers": ["ĐH Bách Khoa Hà Nội"]
+  },
+  {
+    "question": "Khaothi.Online đạt giải thưởng nào sau đây?",
+    "answers": ["Smart City Award 2022"]
+  },
+  {
+    "question": "Giải pháp FPT SPRO có khả năng tích hợp:",
+    "answers": ["Có"]
+  },
+  {
+    "question": "Người phê duyệt của FPT SPRO có thể phê duyệt thông qua:",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "Điểm còn hạn chế của Uengage?",
+    "answers": [
+      "Chất lượng dữ liệu, campaign ra thị trường chậm, tỷ lệ chuyển đổi, cá nhân hóa, fraud, time & cost"
+    ]
+  },
+  {
+    "question": "Các sản phẩm của Utop hướng tới phục vụ cho các phòng ban nào?",
+    "answers": ["Marketing"]
+  },
+  {
+    "question": "Khách hàng của UVote là?",
+    "answers": ["Sen Vàng", "Vinamilk", "Vietjet Air"]
+  },
+  {
+    "question": "VioEdu ra đời năm nào?",
+    "answers": ["2019"]
+  },
+  {
+    "question": "Việc Đăng ký sử dụng Chứng từ khấu trừ thuế TNCN tại cổng thuedientu/ PM khai thuế có bắt buộc không?",
+    "answers": ["Không bắt buộc"]
+  },
+  {
+    "question": "FPT. Digital Onboarding có thể Tích hợp CSDL quốc gia\ndân cư để chống giả mạo giấy tờ tùy thân",
+    "answers": ["Đúng"]
+  },
+  {
+    "question": "akaBot đã có mặt tại bao nhiêu quốc gia?",
+    "answers": ["Hơn 20 quốc gia"]
+  },
+  {
+    "question": "akaMES xuất hiện trên Azure Marketplace từ thời gian nào?",
+    "answers": ["08/2021"]
+  },
+  {
+    "question": "Đâu là giải thưởng mà akaMES đã đạt được?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "Giải pháp Tour ảo có thể được triển khai trên hạ tầng của khách không?",
+    "answers": [
+      "Có thể triển khai trên hạ tầng của khách hàng và trên hạ tầng của akaverse"
+    ]
+  },
+  {
+    "question": "Giải pháp đào tạo ảo của akaVerse có cần phải sử dụng internet không?",
+    "answers": [
+      "Trải nghiệm đào tạo không cần internet nếu đó là trải nghiệm 1 người, tại chỗ và không ghi nhận điểm số",
+      "Trải nghiệm đào tạo cần internet nếu đó là trải nghiệm nhiều người ở các địa điểm khác nhau"
+    ]
+  },
+  {
+    "question": "FPT.dGov được hình thành qua 1 giai đoạn phát triển?",
+    "answers": ["Sai"]
+  },
+  {
+    "question": "Dịch vụ của FPT EagleEye mSOC đem lại lợi ích gì cho khách hàng?",
+    "answers": [
+      "Tận dụng nguồn nhân sự ATTT chất lượng cao của FPT IS. Tiết kiệm được chi phí nhân sự khi phải giám sát và xử lý sự cố ATTT 24/7",
+      "Gói dịch vụ linh hoạt: Khách hàng có thể thuê hoặc mua các giải pháp công nghệ (phần cứng, phần mềm, license) phục cho việc giám sát và xử lý sự cố ATTT 24/7",
+      "Thời gian triển khai nhanh"
+    ]
+  },
+  {
+    "question": "Tên đầy đủ tiếng việt của FPT eBiztrip là gì?",
+    "answers": ["Phần mềm công tác số – FPT.eBizTrip"]
+  },
+  {
+    "question": "Bệnh án điện tử (EMR) là gì?",
+    "answers": [
+      "Là phiên bản số của bệnh án bằng giấy được tạo ra bởi các bác sĩ, điều dưỡng và nhân viên y tế trong một cơ sở khám bệnh, chữa bệnh."
+    ]
+  },
+  {
+    "question": "Hóa đơn điện tử của FPT.eInvoice có thể sử dụng trên các phương tiện nào?",
+    "answers": ["smart phone", "Laptop", "Tablet", "PC, desktop"]
+  },
+  {
+    "question": "Giải pháp Onboarding & eKYC của FIS có khả năng kiểm tra khuôn mặt khách hàng từ CSDL khách hàng không?",
+    "answers": ["Có khả năng nếu CSDL khách hàng chứa hình ảnh khuôn mặt"]
+  },
+  {
+    "question": "Giải pháp eKYC của FIS đã được tích hợp với eSign Cloud của FPT CA chưa?",
+    "answers": ["Đã tích hợp"]
+  },
+  {
+    "question": "FPT.eSign tuân thủ theo tiêu chuẩn bảo mật nào?",
+    "answers": ["Tiêu chuẩn eIDAS của Châu Âu"]
+  },
+  {
+    "question": "Chữ ký số USB TOKEN chỉ có thể sử dụng trên thiết bị nào?",
+    "answers": ["Máy tính hệ điều hành Windows"]
+  },
+  {
+    "question": "FDA miễn phí hạ tầng lưu trữ dữ liệu?",
+    "answers": ["100%"]
+  },
+  {
+    "question": "Hiệu quả mang lại của FPT Digital Accounting giúp giảm khoảng bao nhiêu thời gian và chi phí?",
+    "answers": ["80% thời gian và 70% chi phí"]
+  },
+  {
+    "question": "Khách hàng nào sau đây sử dụng giải pháp FPT.IDcheck đầu tiên?",
+    "answers": ["Vietcredit"]
+  },
+  {
+    "question": "FPT.iHRP giúp chuyển đổi số đến bao nhiêu % quy trình nghiệp vụ nhân sự?",
+    "answers": [">90%"]
+  },
+  {
+    "question": "Sử dụng Khaothi.Online giúp khách hàng TIẾT KIỆM:",
+    "answers": ["50% thời gian, 30% chi phí, 60% nhân lực"]
+  },
+  {
+    "question": "Giải pháp FPT SPRO có khả năng customize, mở rộng chức năng không?",
+    "answers": ["Có"]
+  },
+  {
+    "question": "Nhập file lên hệ thống kế toán là 1 trong các bước xử lý cho kế toán của UBot Invoice, đúng hay sai?",
+    "answers": ["Sai"]
+  },
+  {
+    "question": "UVote có thể được sử dụng ở:",
+    "answers": [
+      "Đại hội cổ đông",
+      "Cuộc thi hoa hậu",
+      "Đại hội Nhà chung cư",
+      "Gameshow truyền hình"
+    ]
+  },
+  {
+    "question": "Đối thủ cạnh tranh của UVote là?",
+    "answers": ["Voting.vn", "Bvote", "BS Vote"]
+  },
+  {
+    "question": "Hợp đồng gia công đặt hàng có phải là loại hợp đồng được phép chứng thực trên Trục CeCA của Bộ Công Thương (BCT)?",
+    "answers": ["Đúng"]
+  },
+  {
+    "question": "Nhận định sau đúng hay sai: Cá nhân không ký hợp đồng lao động hoặc ký hợp đồng lao động dưới ba (03) tháng không được cấp chứng từ Thuế TNCN?",
+    "answers": ["Sai"]
+  },
+  {
+    "question": "Giải pháp Onboarding của FIS chỉ được cung cấp trên nền tảng Cloud, đúng hay sai?",
+    "answers": ["Sai"]
+  },
+  {
+    "question": "\"Quản lý tiêu chuẩn chất lượng toàn bộ quy trình sản xuất, đảm bảo khớp với mục tiêu đặt ra thông qua phân tích nguyên nhân gốc rễ các khiếm khuyết và loại bỏ sai sót\". Nhận định trên thuộc lợi ích gì mà akaMES đem lại?",
+    "answers": ["Đảm bảo tiêu chuẩn chất lượng cao nhất"]
+  },
+  {
+    "question": "akaMES có thể quản lý gì trong hoạt động sản xuất tại nhà máy?",
+    "answers": ["Quản lý sản xuất theo thời gian thực", "Quản lý chất lượng"]
+  },
+  {
+    "question": "FPT.dGov bao gồm Giải pháp/ Ứng dụng hiện thực hoá nền tảng bộ-ngành, tỉnh-thành phố phục vụ CQĐT/ CQS/ ĐTTM?",
+    "answers": ["Đúng"]
+  },
+  {
+    "question": "Dịch vụ Managed Detection & Response của FPT EagleEye MDR tiện ích ở chỗ nào?",
+    "answers": [
+      "Được tích hợp với SIEM để tương quan với mạng và các hoạt động khác.",
+      "Khách hàng không cần phải đầu tư phần cứng, phần mềm",
+      "Chi phí phù hợp với qui mô sử dụng (pay as your growth)."
+    ]
+  },
+  {
+    "question": "Đâu là sự cố nghiêm trọng về an ninh mạng của Bộ ngoại giao?",
+    "answers": ["Hệ thống email bị xâm nhập"]
+  },
+  {
+    "question": "Lợi ích khi sử dụng sản phẩm FPT eBiztrip?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "Hệ thống EGP đang sử dụng loại Chứng thư số nào?",
+    "answers": ["Chứng thư số công cộng"]
+  },
+  {
+    "question": "FPT.eInvoice onCloud cho phép lưu trữ miễn phí dữ liệu với mỗi hóa đơn trong vòng mấy năm?",
+    "answers": ["10"]
+  },
+  {
+    "question": "FPT eLearning đã cung cấp dịch vụ cho khách hàng ở lĩnh vực nào?",
+    "answers": [
+      "Chuỗi nhà hàng, cửa hàng, dược phẩm",
+      "Ngân hàng, bảo hiểm",
+      "Du lịch",
+      "Tập đoàn đa ngành nghề"
+    ]
+  },
+  {
+    "question": "Hiệu quả mang lại của FPT.eSign là gì?",
+    "answers": [
+      "Nâng tỉ lệ ký hợp đồng thành công từ 20% đến 90%",
+      "Giảm thời gian thao tác từ 45p còn ít hơn 10p"
+    ]
+  },
+  {
+    "question": "Tính đến tháng 8/2023, UBot có khoảng bao nhiêu khách hàng sử dụng?",
+    "answers": ["3000 - dưới 4000 khách hàng"]
+  },
+  {
+    "question": "Utop Digital Engage (UEngage) là gì?",
+    "answers": ["Một nền tảng tương tác số tập trung cho Doanh nghiệp"]
+  },
+  {
+    "question": "Chức năng Integration với các hệ thống khác đã được xây dựng sẵn chưa?",
+    "answers": ["Rồi"]
+  },
+  {
+    "question": "Các tính năng nổi bật của UVote AGM là gì?",
+    "answers": [
+      "Cá nhân hóa và gửi thư mời hàng loạt qua email",
+      "Quản lý biểu quyết online"
+    ]
+  },
+  {
+    "question": "VioEdu có bao nhiêu tài khoản định danh?",
+    "answers": ["Hơn 15 triệu"]
+  },
+  {
+    "question": "FPT.Ceca có bộ API chuẩn không?",
+    "answers": ["Có"]
+  },
+  {
+    "question": "Chứng từ khấu trừ thuế TNCN dùng để làm gì?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "Onboarding là sự khởi đầu chính thức cho mối quan hệ đồng thuận giữa khách hàng và nhà cung cấp dịch vụ?",
+    "answers": ["Đúng"]
+  },
+  {
+    "question": "Đâu là các ý đúng khi nói về giải pháp Đào tạo ảo của akaVerse?",
+    "answers": [
+      "Là giải pháp sử dụng kính thực tế ảo để đào tạo nhân sự",
+      "Sử dụng các công nghệ 3D để tái tạo các hình ảnh, tình huống khó ở ngoài đời thực",
+      "Kết nối người dùng từ khoảng cách xa mà vẫn có thể cùng trải nghiệm"
+    ]
+  },
+  {
+    "question": "Quảng Ninh là một trong những địa phương đã triển khai thành công bộ giải pháp FPT.dGov?",
+    "answers": ["Đúng"]
+  },
+  {
+    "question": "Phương án tiếp cận của sản phẩm FPT EagleEye MSOC theo thứ tự nào sau đây là ĐÚNG?",
+    "answers": [
+      "Khảo sát hiện trạng --> Xây dựng đề xuất --> Thực hiện PoC dịch vụ trong 1 tháng --> Triển khai chính thức --> Cung cấp dịch vụ --> Support theo từng deal/cung cấp giá cost đầu vào cho kinh doanh"
+    ]
+  },
+  {
+    "question": "Dữ liệu trên FPT.eContract sẽ được lưu trữ miễn phí trong bao nhiêu năm nếu khách hàng sử dụng dịch vụ liên tục?",
+    "answers": ["10 năm"]
+  },
+  {
+    "question": "Quy định bệnh án điện tử: Bảo đảm khả năng kiểm soát truy cập của người dùng (xác thực, cấp quyền, riêng tư, bảo mật, truy vết) tại bất kỳ thời điểm nào? Đúng hay Sai?",
+    "answers": ["Đúng"]
+  },
+  {
+    "question": "FPT.eInvoice tích hợp được với phần mềm nào?",
+    "answers": ["Tất cả đáp án đều đúng"]
+  },
+  {
+    "question": "Đâu là các học liệu đào tạo FPT.eLearning hỗ trợ?",
+    "answers": ["Video", "Audio", "File PDF"]
+  },
+  {
+    "question": "Chữ ký số được ứng dụng trong những lĩnh vực nào?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "FPT Digital Accouting được vận hành trên hạ tầng Cloud nào?",
+    "answers": ["FPT Cloud"]
+  },
+  {
+    "question": "Khách hàng tiêu biểu của FDA là?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "Khách hàng nào sau đây chưa triển khai FPT.IDcheck?",
+    "answers": ["Vietcombank"]
+  },
+  {
+    "question": "Kỳ thi Đánh giá tư duy 2023 triển khai toàn diện trên Khaothi.Online là kỳ thi đánh giá chuẩn hóa lấy kết quả phục vụ tuyển sinh đại học dưới hình thức trực tuyến tập trung đầu tiên tại Việt Nam, Đúng hay Sai?",
+    "answers": ["Đúng"]
+  },
+  {
+    "question": "FPT SPRO có thể triển khai trên hạ tầng nào?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "UBot được ra mắt năm nào?",
+    "answers": ["2021"]
+  },
+  {
+    "question": "Ai là đang khách hàng của UBot?",
+    "answers": ["Daikin, Rạng Đông, BePro"]
+  },
+  {
+    "question": "UVote AGM có thể sử dụng cho các hình thức tổ chức Đại hội đồng cổ đông nào?",
+    "answers": ["Tất cả các phương án đều đúng"]
+  },
+  {
+    "question": "VioEdu sử dụng công nghệ gì để giúp hàng triệu trẻ em học tập hiệu quả?",
+    "answers": [
+      "Trí tuệ nhân tạo (AI) và dữ liệu lớn (Big Data) cùng với phương pháp học tương thích (Adaptive learning)"
+    ]
+  },
+  {
+    "question": "Tính năng nào nhà trường – giáo viên sử dụng trên VioEdu?",
+    "answers": ["Giao bài tập về nhà", "Tổ chức kiểm tra, đánh giá"]
+  },
+  {
+    "question": "Đối tượng sử dụng Web App của FPT.CeCA?",
+    "answers": [
+      "Là các doanh nghiệp, tổ chức, cá nhân mong muốn lưu trữ và quản lý hợp đồng/tài liệu trên hệ thống CeCA."
+    ]
+  },
+  {
+    "question": "Nhận định sau đúng hay sai: Thu nhập từ chuyển nhượng chứng khoán được áp dụng tính thuế TNCN?",
+    "answers": ["Đúng"]
+  },
+  {
+    "question": "Sản phẩm akaBot là nền tảng RPA phát triển bởi đơn vị akaBot - RPA viết tắt của cụm từ gì?",
+    "answers": ["Robotic Process Automation"]
+  },
+  {
+    "question": "\"Yield report\" thuộc module nào của akaMES?",
+    "answers": ["Insight"]
+  },
+  {
+    "question": "Dịch vụ FPT EagleEye Pentest của FPT IS giúp khách hàng giải quyết vấn đề gì trong lĩnh vực ATTT ứng dụng?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "Người dùng có thể đặt những dịch vụ nào trên hệ thống?",
+    "answers": ["Máy bay", "Khách sạn"]
+  },
+  {
+    "question": "Đâu là nội dung thuộc tiêu chí “Phù hợp với tiêu chuẩn lĩnh vực y tế”?",
+    "answers": [
+      "Tương thích các chuẩn trong y tế (HL7, DICOM, …), phù hợp quy định Bộ Y tế, BHYT/BHXH. Quản lý chất lượng theo tiêu chuẩn ISO 9001:2015 và ISO-IEC 27001:2013"
+    ]
+  },
+  {
+    "question": "Công nghệ FaceID trong giải pháp eKYC của FIS có khả năng tự động phát hiện những trường hợp nào sau đây?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "FPT eLearning là sản phẩm cung cấp những dịch vụ gì?",
+    "answers": [
+      "Đào tạo trực tuyến",
+      "Thi sát hạch trực tuyến",
+      "Giải pháp tích hợp với các hệ sinh thái quản trị nhân sự của doanh nghiệp",
+      "Platform để cung cấp nội dung đào tạo"
+    ]
+  },
+  {
+    "question": "Có thể tìm thấy video giới thiệu khảo thí online trên Youtube với từ khóa tìm kiếm là gì?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "FPT SPRO bắt đầu thương mại hóa vào năm nào?",
+    "answers": ["2020"]
+  },
+  {
+    "question": "FPT SPRO đã đạt giải thưởng nào?",
+    "answers": ["Giải Vàng IT World Awards 2020"]
+  },
+  {
+    "question": "Thời gian trung bình UBot Invoice xử lý một hóa đơn là bao nhiêu?",
+    "answers": ["30s"]
+  },
+  {
+    "question": "Có bao nhiêu học sinh tham gia sân chơi “Đấu trường Toán học” trên VioEdu?",
+    "answers": ["Hơn 10 triệu"]
+  },
+  {
+    "question": "Sản phẩm T.VAN Hóa đơn điện tử (HDDT) triển khai theo hình thức nào?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "Thời gian Onboarding khách hàng mà nền tảng Digital Onboarding đang đề xuất là?",
+    "answers": ["1 phút"]
+  },
+  {
+    "question": "Đâu là các module thuộc akaMES?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "Giải pháp Tour ảo có thể được truy cập/trải nghiệm từ các nền tảng nào?",
+    "answers": [
+      "Máy tính",
+      "Thiết bị di động và máy tính bảng",
+      "Kính thực tế ảo VR"
+    ]
+  },
+  {
+    "question": "Doanh thu dự kiến của Hệ thống EGP trong năm 2023 là bao nhiêu?",
+    "answers": ["140 tỷ"]
+  },
+  {
+    "question": "Đối thủ cạnh tranh trong giai đoạn xây dựng sản phẩm e-GP là ai?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "Đối tượng của FPT.eInvoice onPrem và FPT.eInvoice onCloud khác nhau ở điểm gì?",
+    "answers": ["Cả hai đáp án đều đúng"]
+  },
+  {
+    "question": "Khối module quản trị đào tạo gồm những chức năng gì?",
+    "answers": ["Khóa học", "Học viên", "Chứng chỉ"]
+  },
+  {
+    "question": "FPT.IDcheck đã tích hợp với giải pháp nào của FIS?",
+    "answers": ["Khaothi.online"]
+  },
+  {
+    "question": "Sử dụng Khaothi.Online giúp khách hàng đảm bảo AN TOÀN:",
+    "answers": [
+      "An toàn trong xây dựng ngân hàng câu hỏi, đề thi",
+      "Xác thực thông tin người dự thi",
+      "Bảo mật dữ liệu, ngăn chặn nguy cơ tấn công"
+    ]
+  },
+  {
+    "question": "FPT SPRO có thể số hóa quy trình với đặc điểm nào?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "Lợi thế cạnh tranh của UVote AGM so với các đối thủ là ?",
+    "answers": [
+      "Bảo mật dữ liệu đăng nhập cổ đông thông qua OTP và eKYC",
+      "Triển khai On Cloud, không bị giới hạn bởi không gian địa lý",
+      "Thiết lập đại hội siêu nhanh, trong vòng 5 phút",
+      "Brandname FPT khẳng định vị trí trong lòng Khách hàng"
+    ]
+  },
+  {
+    "question": "Tính pháp lý nào được đánh giá \"có\" đối với hợp đồng điện tử được cung cấp bởi các CeCA kết nối với Trục?",
+    "answers": ["Tất cả đáp án đều đúng"]
+  },
+  {
+    "question": "Chứng từ khấu trừ thuế TNCN là gì?",
+    "answers": [
+      "Chứng từ khấu trừ thuế TNCN là một loại giấy tờ do tổ chức hoặc cá nhân trả thu nhập cấp cho các cá nhân bị khấu trừ thuế thu nhập cá nhân (TNCN)."
+    ]
+  },
+  {
+    "question": "Đâu là điểm hạn chế của phương pháp Onboarding thông thường?",
+    "answers": ["Tất cả các phương án đều đúng"]
+  },
+  {
+    "question": "FPT.dGov bao gồm nhóm giải pháp chuyên ngành?",
+    "answers": ["Đúng"]
+  },
+  {
+    "question": "Để cung cấp được dịch vụ tư vấn, đánh giá và cấp chứng nhận PCI DSS, FPT IS cần đáp ứng yêu cầu tối thiểu nào?",
+    "answers": [
+      "FPT IS đáp ứng các tiêu chuẩn của một PCI QSA Company do PCI SSC đề ra, được PCI SSC công nhận là một PCI QSA Company và được tổ chức này định kỳ đánh giá hàng năm."
+    ]
+  },
+  {
+    "question": "Tổng quan giải pháp quản lý tổng thể bệnh viện bao gồm các ý nào sau đây?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "Dữ liệu thẻ CCCD gắn chip bao gồm cả Chữ ký số có thể làm giả hay không?",
+    "answers": ["Không thể"]
+  },
+  {
+    "question": "Các gói giải pháp hiện tại của Uvote?",
+    "answers": [
+      "Đại hội cổ đông (UVote AGM)",
+      "Bình chọn cuộc thi, sự kiện (UVote Event)"
+    ]
+  },
+  {
+    "question": "CeCA là gì?",
+    "answers": [
+      "CeCA (Certified e-Contract Authority) là Tổ chức chứng thực hợp đồng điện tử được cấp phép bởi Cục Thương mại điện tử và Kinh tế số, Bộ Công Thương căn cứ theo “Nghị định số 52/2013/NĐ-CP ngày 16 tháng 05 năm 2013 về Thương mại điện tử”"
+    ]
+  },
+  {
+    "question": "Cá nhân được quyền yêu cầu cấp chứng từ khấu trừ thuế TNCN nếu bị khấu trừ thuế trong các trường hợp nào sau đây?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "FPT.dGov bao gồm nhóm giải pháp kho dữ liệu số?",
+    "answers": ["Đúng"]
+  },
+  {
+    "question": "Thế mạnh của FPT Cybersecurity là gì?",
+    "answers": [
+      "Trên 30 năm kinh nghiệm trong lĩnh vực tích hợp hệ thống",
+      "Có khả năng tư vấn, triển khai và cung cấp dịch vụ, giải pháp ATTT cho khách hàng từ defensive (phòng thủ) đến offensive (tấn công)",
+      "Đội ngũ kỹ sư ATTT được đào tạo bài bản, đạt các chứng chỉ công nghệ của hãng và quốc tế.",
+      "Giải quyết bài toán về bảo mật cho khách hàng với chất lượng cao nhất"
+    ]
+  },
+  {
+    "question": "Đâu là đối thủ cạnh tranh của sản phẩm?",
+    "answers": ["Helios"]
+  },
+  {
+    "question": "Các tổ chức tham gia trên Hệ thống EGP có thể sử dụng Chứng thư số công cộng nào sau đây để thực hiện ký số?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "Phương án Phối hợp: Các bệnh viện phức tạp cần phải khảo sát, đánh giá nhu cầu và tư vấn giải pháp và chi phí phù hợp? Đúng hay Sai?",
+    "answers": ["Đúng"]
+  },
+  {
+    "question": "Chữ ký số có phải là Scan hình chữ ký tay rồi đính kèm lên file văn bản đúng không?",
+    "answers": ["Sai"]
+  },
+  {
+    "question": "Thông tin trong CCCD có dữ liệu về sinh trắc học đúng hay sai?",
+    "answers": ["Đúng"]
+  },
+  {
+    "question": "FPT.iHRP đã có bao nhiêu năm kinh nghiệm?",
+    "answers": ["20 năm"]
+  },
+  {
+    "question": "Đâu là lợi ích chính của UBot Matching?",
+    "answers": [
+      "Loại trừ sai sót do các tác vụ thủ công",
+      "Lưu trữ online khoa học"
+    ]
+  },
+  {
+    "question": "T.VAN có thể sử dụng trực tiếp trên nền tảng nào?",
+    "answers": ["Tất cả các đáp án đều sai"]
+  },
+  {
+    "question": "Hệ thống Bệnh án điện tử (EMR) phải áp dụng tiêu chuẩn CNTT nào sau đây?",
+    "answers": [
+      "Tiêu chuẩn HL7 (Health Level 7) là tiêu chuẩn quốc tế cung cấp giao thức chuẩn về quản lý, trao đổi và tích hợp dữ liệu y tế giữa các hệ thống thông tin y tế nhằm hỗ trợ các hoạt động y tế."
+    ]
+  },
+  {
+    "question": "Giải pháp bệnh viện thông minh theo thông tư 54/2017/TT-BYT, HIS phải đạt mức bao nhiêu?",
+    "answers": ["HIS đạt mức 6/7, EMR đạt mức nâng cao"]
+  },
+  {
+    "question": "Độ chính xác của công nghệ trích xuất hình ảnh giấy tờ tùy thân (OCR) của FIS là bao nhiêu?",
+    "answers": ["> 96%"]
+  },
+  {
+    "question": "Số lượt thi đồng thời cao nhất đã từng triển khai trên Khaothi.Online là bao nhiêu?",
+    "answers": ["Khoảng 20.000"]
+  },
+  {
+    "question": "Điểm nổi bật của FPT SPRO là gì?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "Tính năng nào của học sinh sử dụng trên VioEdu?",
+    "answers": ["Tích lũy kim cương", "Tham gia sân chơi của hệ thống"]
+  },
+  {
+    "question": "Nhận định sau là đúng hay sai: Người nộp thuế không thuộc quốc tịch Việt Nam không cần ghi thông tin quốc tịch trong Nội dung chứng từ thuế TNCN điện tử?",
+    "answers": ["Sai"]
+  },
+  {
+    "question": "T-VAN là gì?",
+    "answers": [
+      "Là dịch vụ truyền, nhận, lưu trữ, phục hồi thông điệp dữ liệu điện tử về thuế giữa người nộp thuế \nvà cơ quan thuế để thực hiện giao dịch bằng phương thức điện tử"
+    ]
+  },
+  {
+    "question": "FPT.dGov bao gồm nhóm giải pháp IOC (trung tâm điều hành thông minh)?",
+    "answers": ["Đúng"]
+  },
+  {
+    "question": "Giai đoạn Go-live khi triển khai dịch vụ FPT EagleEye.MSOC gồm việc nào sau đây?",
+    "answers": [
+      "Incident response practice",
+      "Use case testing",
+      "Reporting",
+      "Customer feedback"
+    ]
+  },
+  {
+    "question": "Các loại hình \"Hóa đơn\" nào có thể áp dụng bằng hình thức điện tử?",
+    "answers": [
+      "- Hóa đơn GTGT, Hóa đơn bán hàng\n- Tem, vé điện tử\n- Biên lai\n- Chứng từ Thuế TNCN, Khác"
+    ]
+  },
+  {
+    "question": "Giải pháp eKYC của FIS đã được tích hợp với eContract chưa?",
+    "answers": ["Đã tích hợp"]
+  },
+  {
+    "question": "Đăng ký cấp chứng thư số bằng phương thức điện tử được áp dụng cho dịch vụ?",
+    "answers": ["Tất cả các đáp án đều đúng"]
+  },
+  {
+    "question": "FPT SPRO đã tham gia iKhien năm nào?",
+    "answers": ["iKhien 2018"]
+  },
+  {
+    "question": "UVote AGM có thể áp dụng với Doanh nghiệp nào?",
+    "answers": [
+      "Không giới hạn số lượng cổ đông, chỉ cần là doanh nghiệp đã niêm yết trên sàn và có nhu cầu  tổ chức Đại hội cổ đông"
+    ]
+  }
+]
